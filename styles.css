@@ -1,0 +1,77 @@
+img{
+display:flex;
+}
+
+li {
+    display: flex;
+    justify-content:flex-start;
+}
+
+h1 {
+  
+    color: black;
+}
+
+body {
+    background: url("https://m.media-amazon.com/images/I/81Jl71jib0L._AC_SY355_.jpg");
+}
+
+.div {
+    display: flex;
+}
+
+.orange {
+    width: 250px;
+}
+
+.airforce {
+    width: 250px;
+}
+
+.orangeblack {
+    background-color: #8c8c8c;
+    text-align: center;
+    height: 450px;
+    color: grey;
+    float: left;
+    padding: 24px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+.orangeblack {
+    background-color: #787e82;
+    text-align: center;
+    height: 450px;
+    float: left;
+    padding: 24px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+
+.main {
+    background-color: #787e82;
+    text-align: center;
+    height: 450px;
+    color: white;
+    float: left;
+    padding: 24px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 15px;
+}
+
+.side {
+    background-color: #787e82;
+    text-align: center;
+    color: white;
+    width: 800px;
+    float: left;
+    padding: 24px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 15px;
+}
